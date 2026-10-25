@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+artifacts/
+.env
+.deployer.json
+.pytest_cache/
